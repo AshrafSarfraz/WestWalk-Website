@@ -1,0 +1,91 @@
+[
+  {
+    "slug": "one-bedroom",
+    "title": "One-bedroom apartment",
+    "category": "WEST WALK RESIDENCES",
+    "tagline": "A considered space for your own rhythm of life.",
+    "image": "/assets/residence.jpg",
+    "description": "A furnished apartment with the dining, shopping and social spaces of West Walk nearby. Arrange a viewing to explore the available layouts and find the right home for you.",
+    "bedrooms": "1",
+    "type": "Apartment",
+    "price": "QAR 6,900",
+    "features": [
+      "Furnished living spaces",
+      "Kitchen",
+      "Garden or balcony options, depending on the unit",
+      "Wi-Fi and valet parking listed in the residence offering"
+    ]
+  },
+  {
+    "slug": "two-bedroom",
+    "title": "Two-bedroom apartment",
+    "category": "WEST WALK RESIDENCES",
+    "tagline": "Room to share, unwind and make yourself at home.",
+    "image": "/assets/residence.jpg",
+    "description": "A furnished apartment with the dining, shopping and social spaces of West Walk nearby. Arrange a viewing to explore the available layouts and find the right home for you.",
+    "bedrooms": "2",
+    "type": "Apartment",
+    "price": "QAR 8,900",
+    "features": [
+      "Furnished living spaces",
+      "Kitchen",
+      "Garden or balcony options, depending on the unit",
+      "Wi-Fi and valet parking listed in the residence offering",
+      "Additional maid’s room"
+    ]
+  },
+  {
+    "slug": "three-bedroom",
+    "title": "Three-bedroom apartment",
+    "category": "WEST WALK RESIDENCES",
+    "tagline": "Space for family life, connected to the boulevard.",
+    "image": "/assets/residence.jpg",
+    "description": "A furnished apartment with the dining, shopping and social spaces of West Walk nearby. Arrange a viewing to explore the available layouts and find the right home for you.",
+    "bedrooms": "3",
+    "type": "Apartment",
+    "price": "QAR 10,900",
+    "features": [
+      "Furnished living spaces",
+      "Kitchen",
+      "Garden or balcony options, depending on the unit",
+      "Wi-Fi and valet parking listed in the residence offering",
+      "Additional maid’s room"
+    ]
+  },
+  {
+    "slug": "two-bedroom-duplex",
+    "title": "Two-bedroom duplex",
+    "category": "WEST WALK RESIDENCES",
+    "tagline": "An extra dimension to everyday living.",
+    "image": "/assets/residence.jpg",
+    "description": "A furnished duplex with the dining, shopping and social spaces of West Walk nearby. Arrange a viewing to explore the available layouts and find the right home for you.",
+    "bedrooms": "2",
+    "type": "Duplex",
+    "price": "QAR 11,400",
+    "features": [
+      "Furnished living spaces",
+      "Kitchen",
+      "Garden or balcony options, depending on the unit",
+      "Wi-Fi and valet parking listed in the residence offering",
+      "Additional maid’s room"
+    ]
+  },
+  {
+    "slug": "four-bedroom-duplex",
+    "title": "Four-bedroom duplex",
+    "category": "WEST WALK RESIDENCES",
+    "tagline": "A generous home for life together.",
+    "image": "/assets/residence.jpg",
+    "description": "A furnished duplex with the dining, shopping and social spaces of West Walk nearby. Arrange a viewing to explore the available layouts and find the right home for you.",
+    "bedrooms": "4",
+    "type": "Duplex",
+    "price": "QAR 13,400",
+    "features": [
+      "Furnished living spaces",
+      "Kitchen",
+      "Garden or balcony options, depending on the unit",
+      "Wi-Fi and valet parking listed in the residence offering",
+      "Additional maid’s room"
+    ]
+  }
+]

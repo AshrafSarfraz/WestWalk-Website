@@ -1,0 +1,56 @@
+[
+  {
+    "slug": "noir",
+    "title": "NOIR Café",
+    "category": "Cafés",
+    "tagline": "Coffee, conversation and a terrace to linger on.",
+    "image": "/assets/noir-daylight.jpg",
+    "description": "Add NOIR Café to your next visit to West Walk. Browse the boulevard, catch up with friends and discover more along the way.",
+    "brandImage": true
+  },
+  {
+    "slug": "sasso",
+    "title": "SASSO",
+    "category": "Dining",
+    "tagline": "Make time for a meal with the people who matter.",
+    "image": "/assets/sasso.jpg",
+    "description": "Add SASSO to your next visit to West Walk. Browse the boulevard, catch up with friends and discover more along the way.",
+    "brandImage": true
+  },
+  {
+    "slug": "meat-moot",
+    "title": "Meat Moot",
+    "category": "Dining",
+    "tagline": "A gathering place for your next meal on the boulevard.",
+    "image": "/assets/west-walk-exterior.jpg",
+    "description": "Add Meat Moot to your next visit to West Walk. Browse the boulevard, catch up with friends and discover more along the way.",
+    "brandImage": false
+  },
+  {
+    "slug": "al-jazeera-perfumes",
+    "title": "Al Jazeera Perfumes",
+    "category": "Shopping",
+    "tagline": "Explore fragrance as part of your West Walk visit.",
+    "image": "/assets/west-walk-exterior.jpg",
+    "description": "Add Al Jazeera Perfumes to your next visit to West Walk. Browse the boulevard, catch up with friends and discover more along the way.",
+    "brandImage": false
+  },
+  {
+    "slug": "eighty-eight",
+    "title": "Eighty Eight Perfume",
+    "category": "Shopping",
+    "tagline": "Discover a new signature scent.",
+    "image": "/assets/west-walk-exterior.jpg",
+    "description": "Add Eighty Eight Perfume to your next visit to West Walk. Browse the boulevard, catch up with friends and discover more along the way.",
+    "brandImage": false
+  },
+  {
+    "slug": "piccolo",
+    "title": "Piccolo",
+    "category": "Cafés",
+    "tagline": "A coffee stop along your West Walk journey.",
+    "image": "/assets/west-walk-exterior.jpg",
+    "description": "Add Piccolo to your next visit to West Walk. Browse the boulevard, catch up with friends and discover more along the way.",
+    "brandImage": false
+  }
+]

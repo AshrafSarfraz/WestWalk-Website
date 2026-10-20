@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "ev-motor-show",
+    "title": "EV Motor Show · Edition 2",
+    "category": "MOTORING",
+    "tagline": "Electric mobility takes the spotlight.",
+    "image": "/assets/westwalk-sunset.jpg",
+    "description": "West Walk welcomed the second edition of the EV Motor Show, bringing an exploration of electric vehicles and mobility technology to the boulevard."
+  },
+  {
+    "slug": "hongqi-launch",
+    "title": "Hongqi at West Walk",
+    "category": "BRAND EXPERIENCES",
+    "tagline": "A new arrival on the boulevard.",
+    "image": "/assets/westwalk-building.jpg",
+    "description": "A Hongqi vehicle launch brought a moment of automotive discovery to West Walk, connecting a new model with visitors to the destination."
+  },
+  {
+    "slug": "off-road-car-show",
+    "title": "The Off Road Car Show",
+    "category": "MOTORING",
+    "tagline": "Built for a sense of adventure.",
+    "image": "/assets/west-boulevard-gate.jpg",
+    "description": "The Off Road Car Show gathered an automotive showcase at West Walk, giving visitors a closer look at vehicles associated with adventure and off-road driving."
+  }
+]
