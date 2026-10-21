@@ -196,7 +196,7 @@ export default function HomeExperiences() {
                       src={item.image}
                       alt={item.alt}
                       width={768}
-                      height={432}
+                      height={532}
                       loading="lazy"
                       decoding="async"
                       draggable={false}
