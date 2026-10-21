@@ -3,7 +3,7 @@ import { homeHero, homeImages } from "@/data/site";
 export default function HeroMedia() {
   return (
     <img
-      src={homeImages.visit}
+      src={homeImages.westwalk_plazaexterior}
       alt={homeHero.alt}
       width={1920}
       height={1080}

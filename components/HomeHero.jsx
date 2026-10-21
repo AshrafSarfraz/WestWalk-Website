@@ -81,16 +81,8 @@ export default function HomeHero() {
         ref={contentRef}
         className="mx-auto w-full max-w-[1600px] px-[5%] py-32 text-center text-white will-change-[transform,opacity]"
       >
-        <p className="mb-6 text-xs font-semibold uppercase tracking-[0.16em] md:mb-8 md:text-base">
-          A LIFE CONNECTED
-        </p>
-
-        <h1
-          id="home-title"
-          className="font-sans text-[clamp(42px,6vw,96px)] font-light leading-[1.1] tracking-[-0.035em]"
-        >
-          Where life comes together.
-        </h1>
+   
+     
 
         <Link
           href="/contact"
