@@ -4,7 +4,7 @@
     "title": "One-bedroom apartment",
     "category": "WEST WALK RESIDENCES",
     "tagline": "A considered space for your own rhythm of life.",
-    "image": "/assets/residence.jpg",
+    "image": "/assets/Apartment%20/1BHK/1.jpg.jpeg",
     "description": "A furnished apartment with the dining, shopping and social spaces of West Walk nearby. Arrange a viewing to explore the available layouts and find the right home for you.",
     "bedrooms": "1",
     "type": "Apartment",
@@ -14,6 +14,12 @@
       "Kitchen",
       "Garden or balcony options, depending on the unit",
       "Wi-Fi and valet parking listed in the residence offering"
+    ],
+    "gallery": [
+      "/assets/Apartment%20/1BHK/1.jpg.jpeg",
+      "/assets/Apartment%20/1BHK/2.jpg.jpeg",
+      "/assets/Apartment%20/1BHK/3.jpg.jpeg",
+      "/assets/Apartment%20/1BHK/4.jpg.jpeg"
     ]
   },
   {
@@ -21,7 +27,7 @@
     "title": "Two-bedroom apartment",
     "category": "WEST WALK RESIDENCES",
     "tagline": "Room to share, unwind and make yourself at home.",
-    "image": "/assets/residence.jpg",
+    "image": "/assets/Apartment%20/2BHK/1.jpg.jpeg",
     "description": "A furnished apartment with the dining, shopping and social spaces of West Walk nearby. Arrange a viewing to explore the available layouts and find the right home for you.",
     "bedrooms": "2",
     "type": "Apartment",
@@ -32,6 +38,12 @@
       "Garden or balcony options, depending on the unit",
       "Wi-Fi and valet parking listed in the residence offering",
       "Additional maid’s room"
+    ],
+    "gallery": [
+      "/assets/Apartment%20/2BHK/1.jpg.jpeg",
+      "/assets/Apartment%20/2BHK/2.jpg.jpeg",
+      "/assets/Apartment%20/2BHK/3.jpg.jpeg",
+      "/assets/Apartment%20/2BHK/4.jpg.jpeg"
     ]
   },
   {
@@ -39,7 +51,7 @@
     "title": "Three-bedroom apartment",
     "category": "WEST WALK RESIDENCES",
     "tagline": "Space for family life, connected to the boulevard.",
-    "image": "/assets/residence.jpg",
+    "image": "/assets/Apartment%20/3BHK/1.jpg.jpeg",
     "description": "A furnished apartment with the dining, shopping and social spaces of West Walk nearby. Arrange a viewing to explore the available layouts and find the right home for you.",
     "bedrooms": "3",
     "type": "Apartment",
@@ -50,6 +62,13 @@
       "Garden or balcony options, depending on the unit",
       "Wi-Fi and valet parking listed in the residence offering",
       "Additional maid’s room"
+    ],
+    "gallery": [
+      "/assets/Apartment%20/3BHK/1.jpg.jpeg",
+      "/assets/Apartment%20/3BHK/2.jpg.jpeg",
+      "/assets/Apartment%20/3BHK/3.jpg.jpeg",
+      "/assets/Apartment%20/3BHK/4.jpg.jpeg",
+      "/assets/Apartment%20/3BHK/5.jpg.jpeg"
     ]
   },
   {
@@ -57,7 +76,7 @@
     "title": "Two-bedroom duplex",
     "category": "WEST WALK RESIDENCES",
     "tagline": "An extra dimension to everyday living.",
-    "image": "/assets/residence.jpg",
+    "image": "/assets/Apartment%20/2BHK/3.jpg.jpeg",
     "description": "A furnished duplex with the dining, shopping and social spaces of West Walk nearby. Arrange a viewing to explore the available layouts and find the right home for you.",
     "bedrooms": "2",
     "type": "Duplex",
@@ -68,6 +87,12 @@
       "Garden or balcony options, depending on the unit",
       "Wi-Fi and valet parking listed in the residence offering",
       "Additional maid’s room"
+    ],
+    "gallery": [
+      "/assets/Apartment%20/2BHK/1.jpg.jpeg",
+      "/assets/Apartment%20/2BHK/2.jpg.jpeg",
+      "/assets/Apartment%20/2BHK/3.jpg.jpeg",
+      "/assets/Apartment%20/2BHK/4.jpg.jpeg"
     ]
   },
   {
@@ -75,7 +100,7 @@
     "title": "Four-bedroom duplex",
     "category": "WEST WALK RESIDENCES",
     "tagline": "A generous home for life together.",
-    "image": "/assets/residence.jpg",
+    "image": "/assets/Apartment%20/4BHK%20/1.jpg.jpeg",
     "description": "A furnished duplex with the dining, shopping and social spaces of West Walk nearby. Arrange a viewing to explore the available layouts and find the right home for you.",
     "bedrooms": "4",
     "type": "Duplex",
@@ -86,6 +111,14 @@
       "Garden or balcony options, depending on the unit",
       "Wi-Fi and valet parking listed in the residence offering",
       "Additional maid’s room"
+    ],
+    "gallery": [
+      "/assets/Apartment%20/4BHK%20/1.jpg.jpeg",
+      "/assets/Apartment%20/4BHK%20/2.jpg.jpeg",
+      "/assets/Apartment%20/4BHK%20/3.jpg.jpeg",
+      "/assets/Apartment%20/4BHK%20/4.jpg.jpeg",
+      "/assets/Apartment%20/4BHK%20/5.jpg.jpeg",
+      "/assets/Apartment%20/4BHK%20/6.jpg.jpeg"
     ]
   }
 ]

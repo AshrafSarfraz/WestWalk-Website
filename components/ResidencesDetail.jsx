@@ -1,4 +1,5 @@
 import Link from "next/link";
+import ResidenceGallery from "./ResidenceGallery";
 export default function ResidencesDetail({ item }) {
   return (
     <main id={"main"}>
@@ -15,6 +16,7 @@ export default function ResidencesDetail({ item }) {
           <p>{item.tagline}</p>
         </div>
       </section>
+      <ResidenceGallery images={item.gallery || [item.image]} title={item.title} />
       <section className={"section detail-split"}>
         <div>
           <Link className={"breadcrumb"} href={"/residences/"}>

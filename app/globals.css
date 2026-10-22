@@ -631,13 +631,13 @@ h3 {
 .page-hero {
   @apply relative;
   isolation: isolate;
-  min-height: 540px;
+  min-height: 640px;
   @apply flex items-center;
   padding: 80px 8%;
   @apply overflow-hidden;
 }
 .page-hero.with-image {
-  min-height: 610px;
+  min-height: 700px;
   color: white;
   background: #34383a;
 }
@@ -678,7 +678,7 @@ h3 {
   color: #626a65;
 }
 .page-hero.compact {
-  min-height: 420px;
+  min-height: 700px;
 }
 .page-hero.compact h1 {
   font-size: clamp(46px, 5.5vw, 76px);
@@ -2529,4 +2529,39 @@ h2 em {
   .inner-page main h1, .inner-page main h2, .inner-page main h3 { font-family: "Lato", Arial, sans-serif; }
   .inner-page main em { font-family: inherit; font-style: normal; }
   .inner-page main .button.dark { background: #111; border-color: #111; border-radius: 999px; }
+}
+
+/* Remove dark overlay filters from images */
+.inner-veil, .page-hero .inner-veil, .photo-card::after, .discovery-card::after,
+.journal-feature::after, .type-hero::after, .editorial-photo::after {
+ background: transparent !important; background-image: none !important;
+ opacity: 0 !important; pointer-events: none !important;
+}
+.homepage .visit {background-image: var(--visit-image) !important;}
+
+
+/* =========================================================
+   WEST WALK — BIGGER INNER-PAGE HERO IMAGES
+   HomeHero uses its own component and remains unchanged.
+   These rules come last to override older duplicate selectors.
+   ========================================================= */
+@media (min-width: 701px) {
+  .page-hero.with-image {
+    min-height: 850px !important;
+  }
+  .page-hero.with-image.compact {
+    min-height: 700px !important;
+  }
+}
+@media (max-width: 700px) {
+  .page-hero.with-image {
+    min-height: 600px !important;
+  }
+  .page-hero.with-image.compact {
+    min-height: 520px !important;
+  }
+}
+.page-hero.with-image > img {
+  object-fit: cover;
+  object-position: center center;
 }

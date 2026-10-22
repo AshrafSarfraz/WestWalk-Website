@@ -8,7 +8,7 @@ export default function Page() {
     <main id={"main"}>
       <section className={"page-hero with-image "}>
         <img
-          src={images.residence}
+          src={items[0].image}
           alt={"WEST WALK RESIDENCES at West Walk"}
           fetchPriority={"high"}
         />

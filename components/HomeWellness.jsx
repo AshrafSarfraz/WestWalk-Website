@@ -3,23 +3,24 @@ import { images } from "@/data/site";
 
 const wellness = [
   {
-    label: "PAUSE & UNWIND",
-    title: "Find your slower moment.",
-    description:
-      "A little sunshine. A refreshing swim. Make time to slow down.",
-    video: "/assets/pool.mp4",
-    poster: "/assets/retaj-pool-wide.jpg",
-    ariaLabel: "West Walk Retaj swimming pool",
-  },
-  {
     label: "MOVE & RECHARGE",
     title: "Make room for a fresh start.",
     description:
       "Find your energy and bring a little more movement into your day.",
-    video: "/assets/fitness.mp4",
+    video: "/assets/Video/fitness.mp4",
     poster: images.fitness_poster,
     ariaLabel: "Fitness at West Walk",
   },
+  {
+    label: "PAUSE & UNWIND",
+    title: "Find your slower moment.",
+    description:
+      "A little sunshine. A refreshing swim. Make time to slow down.",
+    video: "/assets/Video/westwalk-story.mp4",
+    poster: "/assets/Retaj/retaj-pool-wide.jpg",
+    ariaLabel: "West Walk Retaj swimming pool",
+  },
+
 ];
 
 export default function HomeWellness() {

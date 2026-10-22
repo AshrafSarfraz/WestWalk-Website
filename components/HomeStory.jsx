@@ -12,7 +12,7 @@ const moments = [
       "A walk. A conversation. A familiar face. Everyday moments that bring us together.",
   },
   {
-    image: "/assets/retaj-pool-wide.jpg",
+    image: "/assets/Retaj/retaj-pool-wide.jpg",
     alt: "West Walk Retaj swimming pool",
     title: "RELAXED",
     caption:
@@ -186,7 +186,7 @@ export default function HomeStory() {
                   {/* Gradient keeps white text readable */}
                   <div
                     aria-hidden="true"
-                    className="absolute inset-0 bg-gradient-to-t from-black/65 via-black/10 to-transparent"
+                    className="absolute inset-0 pointer-events-none"
                   />
 
                   <div className="absolute inset-x-0 bottom-0 px-6 pb-9 lg:pb-14">
